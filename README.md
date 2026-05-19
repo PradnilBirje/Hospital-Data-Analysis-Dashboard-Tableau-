@@ -1,5 +1,14 @@
 # Hospital Data Analysis Dashboard Tableau
 
+
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge&logo=tableau)   
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-red?style=for-the-badge)  
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange?style=for-the-badge)  
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green?style=for-the-badge)  
+![Project Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)  
+![Made With](https://img.shields.io/badge/Made%20With-Tableau-blueviolet?style=for-the-badge)  
+
+
 - The Hospital Data Analysis Dashboard is an interactive Tableau project designed to analyze patient demographics, encounter trends, healthcare costs, and mortality insights using healthcare datasets.
 - The dashboard transforms raw hospital data into meaningful visual insights that help understand operational performance, patient distribution, and healthcare patterns. This project focuses on data storytelling, KPI tracking, and business-oriented healthcare analytics through interactive visualizations.
 
