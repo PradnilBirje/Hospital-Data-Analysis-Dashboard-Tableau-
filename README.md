@@ -13,6 +13,14 @@
 - The dashboard transforms raw hospital data into meaningful visual insights that help understand operational performance, patient distribution, and healthcare patterns. This project focuses on data storytelling, KPI tracking, and business-oriented healthcare analytics through interactive visualizations.
 
 
+🖼️ Dashboard Preview
+
+![Sales Dashboard](Hospital-Data-Analysis-Dashboard-Tableau-page_1.png)
+![Sales Dashboard](Hospital-Data-Analysis-Dashboard-Tableau-page_2.png)
+![Sales Dashboard](Hospital-Data-Analysis-Dashboard-Tableau-page_3.png)
+![Sales Dashboard](Hospital-Data-Analysis-Dashboard-Tableau-page_4.png)
+![Sales Dashboard](Hospital-Data-Analysis-Dashboard-Tableau-page_5.png)
+
 ## 🛠 Technologies
 
 - Tableau
